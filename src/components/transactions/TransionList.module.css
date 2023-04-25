@@ -1,0 +1,15 @@
+th {
+  background-color: blue;
+  padding: 5px 40px;
+}
+
+td {
+  padding: 5px 40px;
+
+  background-color: white;
+  border: 1px solid gray;
+}
+
+.trbody:nth-child(2n) {
+  background-color: blanchedalmond;
+}
